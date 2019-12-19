@@ -24,3 +24,7 @@ $ sh create.sh
 ```
 $ sh destroy.sh
 ```
+
+Notes:
+
+ * Provisioning takes around 20 minutes to complete.
