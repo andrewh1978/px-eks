@@ -5,6 +5,7 @@ This will provision an EKS cluster, along with Portworx.
 # Prerequisites
 
  * AWS CLI (https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html), already configured
+ * eksctl (https://eksctl.io/introduction/installation/)
  * jq:
 ```
 # brew install jq
