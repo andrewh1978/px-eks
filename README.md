@@ -21,4 +21,5 @@ $ sh destroy.sh
 
 Notes:
 
- * Provisioning takes around 20 minutes to complete.
+ * Provisioning takes around 20 minutes.
+ * Tearing down takes around 15 minutes.
